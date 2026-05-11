@@ -17,14 +17,7 @@
 
 ---
 
-### 📊 Mis Estadísticas de GitHub
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=alexnunezqu&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexnunezqu&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
 
 ### 🌱 Actualmente estoy...
 
@@ -37,8 +30,5 @@
 
 ### 🤝 Conectemos
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](TU_LINK_LINKEDIN)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](TU_LINK_TWITTER)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](TU_LINK_PORTFOLIO)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danielnunezq/)
 
-¡Espero que esta guía y la plantilla te ayuden a destacar! Si necesitas algún ajuste en el diseño o en el código Markdown, no dudes en pedírmelo.
